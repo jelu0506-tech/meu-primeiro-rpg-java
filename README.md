@@ -14,10 +14,8 @@ O jogador assume o papel de um herói que enfrenta um Goblin em uma floresta esc
 Este projeto foi criado enquanto eu aprendo Java. Tenho consciência de que o código pode ser otimizado e pretendo aplicar melhorias no futuro.
 
 ### 📈 Próximas Melhorias (Roadmap):
-- [ ] Criar um sistema de **Level Up** e experiência.
 - [ ] Adicionar novos tipos de inimigos.
 - [ ] Implementar um sistema de **Equipamentos** (espadas, armaduras).
-- [ ] Separar as classes em arquivos diferentes para melhor organização.
 - [ ] Criar uma interface gráfica simples.
 
 ## 🚀 Como Executar
